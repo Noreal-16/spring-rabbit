@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: mqRabbit
+  rabbitmq:
+    host: localhost
+    port: 5672
+    username: usermq
+    password: mq123456
+
+
